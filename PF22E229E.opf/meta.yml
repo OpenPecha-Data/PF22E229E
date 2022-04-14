@@ -1,0 +1,32 @@
+id: PF22E229E
+initial_creation_type: input
+source_metadata:
+  work_id: http://purl.bdrc.io/resource/WA1KG12113
+  instance_id: http://purl.bdrc.io/resource/IE1KG5988
+  collection_id: http://purl.bdrc.io/resource/PR0ET001
+  language_id: http://purl.bdrc.io/resource/LangBo
+  title:
+    bo:
+    - གཟུངས་བསྡུས།
+  alt_title:
+    en-x-mixed:
+    - Mdo rgyud gsuṅ rab rgya mtshoʾi sñiṅ po gces par btus pa ʾdod ʾbyuṅ nor buʾi
+      phreṅ ba :a collection of short sutras, tantras, and dharanis extracted, for
+      the most part, from the Bkaʾ-ʾgyur and the Bstan-ʾgyur.
+  author: None
+  publisher: DharmaDownload
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: false
+  volumes:
+    6324e763d5bf45388f05cc500d41e002:
+      title: ༄༅།་།གསེར་འོད་དམ་པའི་བཤགས་པ་བཞུགས་སོ།་།།་།
+      volume_number: 1
+      base_file: UT1KG5988_001_0108.txt
+      reference: http://purl.bdrc.io/resource/VL8F19D0B0408668CD
+      image_group: null
+      quality: null
+  reproductionOf:
+  - http://purl.bdrc.io/resource/MW1KG5988
+  - http://purl.bdrc.io/resource/W1KG5988
+created_at: '2021-12-24T17:26:28.143353'
+last_modified_at: '2021-12-24T17:26:28.143365'
