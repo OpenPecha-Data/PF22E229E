@@ -30,3 +30,8 @@ source_metadata:
   - http://purl.bdrc.io/resource/W1KG5988
 created_at: '2021-12-24T17:26:28.143353'
 last_modified_at: '2021-12-24T17:26:28.143365'
+statistics:
+  total_words: 283439
+  total_non_words: 49522
+quality:
+  non_words_ratio: 0.17
